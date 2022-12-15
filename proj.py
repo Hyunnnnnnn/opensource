@@ -138,5 +138,4 @@ ax2 = sns.histplot(y_hat,kde=True, label="y_hat",color='blue' ,ax=ax1)
 plt.legend()
 
 
-
 plt.show()
